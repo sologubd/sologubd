@@ -1,16 +1,20 @@
-## Hi there 👋
+## Dmytro Solohub
 
-<!--
-**sologubd/sologubd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Full-stack software engineer
+### CTO in @Syncspert
 
-Here are some ideas to get you started:
+### About
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I've been working in IT industry as a software engineer since 2017.
+As a technical leader, I've successfully managed development teams and infrastructure, leading to successful project completions and satisfied clients.
+My expertise spans both backend and frontend development, with a strong focus on time and within scope.
+
+[My website](https://dsoloh.me)
+
+- 🇺🇦 #StandWithUkraine
+- 🌱 I’m currently learning a data engineering
+
+### My projects
+
+- [Data engineer lelarning path](https://github.com/sologubd/data-engineer-roadmap)
+- [Notes of spanish lessons](https://spanish-lessons.dsoloh.me)
